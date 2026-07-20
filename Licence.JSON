@@ -1,11 +1,11 @@
 {
-        "licenses":
+    "licenses":
     {
-        "ABCD1234":
+        "AABBCCDD":
         {
             "owner":"MW",
             "plugin":"MWUtils",
-            "expires":"Never"
+            "expires":""
         }
     }
 }
