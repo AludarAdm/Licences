@@ -5,7 +5,7 @@
         {
             "owner":"MW",
             "plugin":"MWUtils",
-            "expires":""
+            "expires":"Never"
         }
     }
 }
