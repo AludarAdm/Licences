@@ -1,0 +1,11 @@
+{
+        "licenses":
+    {
+        "ABCD1234":
+        {
+            "owner":"MW",
+            "plugin":"MWUtils",
+            "expires":"Never"
+        }
+    }
+}
